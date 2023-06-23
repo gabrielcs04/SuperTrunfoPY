@@ -1,0 +1,258 @@
+[
+	{
+		"nome": "Golden Retriever",
+		"classe": "ST",
+		"peso": 34,
+		"brincalhao": 10,
+		"agressividade": 3,
+		"obediencia": 9
+	},
+	{
+		"nome": "Bulldog Inglês",
+		"classe": "AA",
+		"peso": 25,
+		"brincalhao": 5,
+		"agressividade": 6,
+		"obediencia": 7
+	},
+	{
+		"nome": "Labrador Retriever",
+		"classe": "B",
+		"peso": 36,
+		"brincalhao": 9,
+		"agressividade": 2,
+		"obediencia": 8
+	},
+	{
+		"nome": "Poodle",
+		"classe": "B",
+		"peso": 15,
+		"brincalhao": 8,
+		"agressividade": 4,
+		"obediencia": 10
+	},
+	{
+		"nome": "Beagle",
+		"classe": "B",
+		"peso": 12,
+		"brincalhao": 9,
+		"agressividade": 3,
+		"obediencia": 6
+	},
+	{
+		"nome": "Bulldog Francês",
+		"classe": "B",
+		"peso": 14,
+		"brincalhao": 7,
+		"agressividade": 5,
+		"obediencia": 6
+	},
+	{
+		"nome": "Chihuahua",
+		"classe": "B",
+		"peso": 3,
+		"brincalhao": 6,
+		"agressividade": 4,
+		"obediencia": 7
+	},
+	{
+		"nome": "Boxer",
+		"classe": "B",
+		"peso": 32,
+		"brincalhao": 10,
+		"agressividade": 6,
+		"obediencia": 6
+	},
+	{
+		"nome": "Dachshund",
+		"classe": "B",
+		"peso": 15,
+		"brincalhao": 7,
+		"agressividade": 3,
+		"obediencia": 6
+	},
+	{
+		"nome": "Rottweiler",
+		"classe": "B",
+		"peso": 50,
+		"brincalhao": 6,
+		"agressividade": 8,
+		"obediencia": 7
+	},
+	{
+		"nome": "Pug",
+		"classe": "B",
+		"peso": 8,
+		"brincalhao": 8,
+		"agressividade": 3,
+		"obediencia": 7
+	},
+	{
+		"nome": "Doberman",
+		"classe": "B",
+		"peso": 45,
+		"brincalhao": 6,
+		"agressividade": 8,
+		"obediencia": 7
+	},
+	{
+		"nome": "Shih Tzu",
+		"classe": "B",
+		"peso": "4-7.2 kg",
+		"brincalhao": 7,
+		"agressividade": 3,
+		"obediencia": 6
+	},
+	{
+		"nome": "Bichon Frisé",
+		"classe": "B",
+		"peso": 5,
+		"brincalhao": 9,
+		"agressividade": 2,
+		"obediencia": 7
+	},
+	{
+		"nome": "Border Collie",
+		"classe": "B",
+		"peso": 20,
+		"brincalhao": 10,
+		"agressividade": 4,
+		"obediencia": 9
+	},
+	{
+		"nome": "Husky Siberiano",
+		"classe": "B",
+		"peso": 25,
+		"brincalhao": 9,
+		"agressividade": 4,
+		"obediencia": 6
+	},
+	{
+		"nome": "Akita Inu",
+		"classe": "B",
+		"peso": 30,
+		"brincalhao": 5,
+		"agressividade": 7,
+		"obediencia": 5
+	},
+	{
+		"nome": "Yorkshire Terrier",
+		"classe": "B",
+		"peso": 3,
+		"brincalhao": 8,
+		"agressividade": 3,
+		"obediencia": 6
+	},
+	{
+		"nome": "Schnauzer Miniatura",
+		"classe": "B",
+		"peso": 6,
+		"brincalhao": 8,
+		"agressividade": 4,
+		"obediencia": 8
+	},
+	{
+		"nome": "Basset Hound",
+		"classe": "B",
+		"peso": 25,
+		"brincalhao": 7,
+		"agressividade": 4,
+		"obediencia": 7
+	},
+	{
+		"nome": "Dalmatian",
+		"classe": "B",
+		"peso": 30,
+		"brincalhao": 9,
+		"agressividade": 4,
+		"obediencia": 7
+	},
+	{
+		"nome": "São Bernardo",
+		"classe": "B",
+		"peso": 80,
+		"brincalhao": 6,
+		"agressividade": 3,
+		"obediencia": 7
+	},
+	{
+		"nome": "Pomeranian",
+		"classe": "B",
+		"peso": 3,
+		"brincalhao": 8,
+		"agressividade": 3,
+		"obediencia": 7
+	},
+	{
+		"nome": "Staffordshire Bull Terrier",
+		"classe": "B",
+		"peso": 15,
+		"brincalhao": 9,
+		"agressividade": 7,
+		"obediencia": 7
+	},
+	{
+		"nome": "Weimaraner",
+		"classe": "B",
+		"peso": 32,
+		"brincalhao": 9,
+		"agressividade": 5,
+		"obediencia": 8
+	},
+	{
+		"nome": "Cocker Spaniel",
+		"classe": "B",
+		"peso": 15,
+		"brincalhao": 8,
+		"agressividade": 4,
+		"obediencia": 8
+	},
+	{
+		"nome": "Doberman",
+		"classe": "B",
+		"peso": 40,
+		"brincalhao": 6,
+		"agressividade": 8,
+		"obediencia": 7
+	},
+	{
+		"nome": "Shar Pei",
+		"classe": "B",
+		"peso": 25,
+		"brincalhao": 6,
+		"agressividade": 7,
+		"obediencia": 6
+	},
+	{
+		"nome": "Chow Chow",
+		"classe": "B",
+		"peso": 32,
+		"brincalhao": 4,
+		"agressividade": 7,
+		"obediencia": 4
+	},
+	{
+		"nome": "Shiba Inu",
+		"classe": "B",
+		"peso": 10,
+		"brincalhao": 7,
+		"agressividade": 5,
+		"obediencia": 6
+	},
+	{
+		"nome": "Whippet",
+		"classe": "B",
+		"peso": 18,
+		"brincalhao": 9,
+		"agressividade": 3,
+		"obediencia": 7
+	},
+	{
+		"nome": "Shih Tzu",
+		"classe": "B",
+		"peso": 7,
+		"brincalhao": 7,
+		"agressividade": 3,
+		"obediencia": 6
+	}
+]

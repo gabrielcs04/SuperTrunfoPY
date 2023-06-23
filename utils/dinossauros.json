@@ -1,0 +1,258 @@
+[
+	{
+		"nome": "Tyrannosaurus rex",
+		"classe": "ST",
+		"peso": 14,
+		"altura": 6,
+		"comprimento": 12,
+		"viveu_ha": 68
+	},
+	{
+		"nome": "Velociraptor",
+		"classe": "AA",
+		"peso": 20,
+		"altura": 0.5,
+		"comprimento": 1.8,
+		"viveu_ha": 73
+	},
+	{
+		"nome": "Triceratops",
+		"classe": "B'",
+		"peso": 10,
+		"altura": 3,
+		"comprimento": 9,
+		"viveu_ha": 65
+	},
+	{
+		"nome": "Stegosaurus",
+		"classe": "B'",
+		"peso": 7,
+		"altura": 4.5,
+		"comprimento": 9,
+		"viveu_ha": 156
+	},
+	{
+		"nome": "Allosaurus",
+		"classe": "B'",
+		"peso": 3,
+		"altura": 4,
+		"comprimento": 13,
+		"viveu_ha": 155
+	},
+	{
+		"nome": "Brachiosaurus",
+		"classe": "B'",
+		"peso": 60,
+		"altura": 25,
+		"comprimento": 30,
+		"viveu_ha": 156
+	},
+	{
+		"nome": "Ankylosaurus",
+		"classe": "B'",
+		"peso": 5,
+		"altura": 1.7,
+		"comprimento": 8,
+		"viveu_ha": 68
+	},
+	{
+		"nome": "Diplodocus",
+		"classe": "B'",
+		"peso": 13,
+		"altura": 7,
+		"comprimento": 33,
+		"viveu_ha": 154
+	},
+	{
+		"nome": "Spinosaurus",
+		"classe": "B'",
+		"peso": 15,
+		"altura": 7,
+		"comprimento": 18,
+		"viveu_ha": 112
+	},
+	{
+		"nome": "Iguanodon",
+		"classe": "B'",
+		"peso": 3,
+		"altura": 4,
+		"comprimento": 10,
+		"viveu_ha": 140
+	},
+	{
+		"nome": "Carnotaurus",
+		"classe": "B'",
+		"peso": 2,
+		"altura": 7,
+		"comprimento": 9.7,
+		"viveu_ha": 70
+	},
+	{
+		"nome": "Parasaurolophus",
+		"classe": "B'",
+		"altura": 2.7,
+		"comprimento": 10,
+		"viveu_ha": 70,
+		"peso": 3.5
+	},
+	{
+		"nome": "Pteranodon",
+		"classe": "B'",
+		"peso": 30,
+		"altura": 1.5,
+		"comprimento": 8,
+		"viveu_ha": 84
+	},
+	{
+		"nome": "Archaeopteryx",
+		"classe": "B'",
+		"peso": 0.5,
+		"altura": 0.3,
+		"comprimento": 0.5,
+		"viveu_ha": 155
+	},
+	{
+		"nome": "Compsognathus",
+		"classe": "B'",
+		"peso": 2,
+		"altura": 0.6,
+		"comprimento": 1.4,
+		"viveu_ha": 145
+	},
+	{
+		"nome": "Dilophosaurus",
+		"classe": "B'",
+		"peso": 500,
+		"altura": 1.8,
+		"comprimento": 7,
+		"viveu_ha": 193
+	},
+	{
+		"nome": "Giganotosaurus",
+		"classe": "B'",
+		"peso": 13,
+		"altura": 5,
+		"comprimento": 12,
+		"viveu_ha": 95
+	},
+	{
+		"nome": "Microraptor",
+		"classe": "B'",
+		"peso": 0.5,
+		"altura": 0.4,
+		"comprimento": 0.7,
+		"viveu_ha": 120
+	},
+	{
+		"nome": "Deinonychus",
+		"classe": "B'",
+		"peso": 80,
+		"altura": 1.1,
+		"comprimento": 3.5,
+		"viveu_ha": 115
+	},
+	{
+		"nome": "Pachycephalosaurus",
+		"classe": "B'",
+		"peso": 1.5,
+		"altura": 2.1,
+		"comprimento": 4.5,
+		"viveu_ha": 76
+	},
+	{
+		"nome": "Spinosaurus",
+		"classe": "B'",
+		"peso": 15,
+		"altura": 6,
+		"comprimento": 16,
+		"viveu_ha": 112
+	},
+	{
+		"nome": "Iguanodon",
+		"classe": "B'",
+		"peso": 2.5,
+		"altura": 3,
+		"comprimento": 10,
+		"viveu_ha": 140
+	},
+	{
+		"nome": "Carnotaurus",
+		"classe": "B'",
+		"peso": 1.5,
+		"altura": 2.7,
+		"comprimento": 9,
+		"viveu_ha": 72
+	},
+	{
+		"nome": "Parasaurolophus",
+		"classe": "B'",
+		"peso": 3.5,
+		"altura": 2.7,
+		"comprimento": 10,
+		"viveu_ha": 76
+	},
+	{
+		"nome": "Pteranodon",
+		"classe": "B'",
+		"peso": 30,
+		"altura": 1.5,
+		"comprimento": 9,
+		"viveu_ha": 85
+	},
+	{
+		"nome": "Archaeopteryx",
+		"classe": "B'",
+		"peso": 0.5,
+		"altura": 0.3,
+		"comprimento": 0.5,
+		"viveu_ha": 150
+	},
+	{
+		"nome": "Compsognathus",
+		"classe": "B'",
+		"peso": 2,
+		"altura": 0.5,
+		"comprimento": 1.4,
+		"viveu_ha": 150
+	},
+	{
+		"nome": "Dilophosaurus",
+		"classe": "B'",
+		"peso": 500,
+		"altura": 1.8,
+		"comprimento": 7,
+		"viveu_ha": 193
+	},
+	{
+		"nome": "Giganotosaurus",
+		"classe": "B'",
+		"peso": 12,
+		"altura": 5,
+		"comprimento": 12,
+		"viveu_ha": 99
+	},
+	{
+		"nome": "Microraptor",
+		"classe": "B'",
+		"peso": 0.5,
+		"altura": 0.4,
+		"comprimento": 0.7,
+		"viveu_ha": 120
+	},
+	{
+		"nome": "Deinonychus",
+		"classe": "B'",
+		"peso": 90,
+		"altura": 1.1,
+		"comprimento": 3,
+		"viveu_ha": 115
+	},
+	{
+		"nome": "Pachycephalosaurus",
+		"classe": "B'",
+		"peso": 1.5,
+		"altura": 2.1,
+		"comprimento": 4.5,
+		"viveu_ha": 77
+	}
+]
