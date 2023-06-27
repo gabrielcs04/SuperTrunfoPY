@@ -4,15 +4,18 @@ from utils.enum import TipoCarta, ModoJogo
 
 
 print("=-"*15, "BEM-VINDO AO SUPER TRUNFO", "=-"*15)
+print()
 
-# nome = str(input("Digite o seu nome: "))
-# sobrenome = str(input("Digite o seu sobrenome: "))
-# idade = int(input("Digite a sua idade: "))
-# apelido = str(input("Digite um apelido para usar durante o jogo: "))
+nome = str(input("Digite o seu nome: "))
+sobrenome = str(input("Digite o seu sobrenome: "))
+idade = int(input("Digite a sua idade: "))
+apelido = str(input("Digite um apelido para usar durante o jogo: "))
 
-# usuario = Usuario(nome, sobrenome, idade, apelido)
+usuario = Usuario(nome, sobrenome, idade, apelido)
 
-print("--"*44)
+print()
+print("-"*87)
+print()
 
 escolha_tipo_carta = ""
 while (escolha_tipo_carta != "C" and escolha_tipo_carta != "D"):
@@ -25,6 +28,7 @@ while (escolha_modo_jogo != "N" and escolha_modo_jogo != "R"):
     escolha_modo_jogo = input("Escolha o um modo de jogo -> Noramal (N) || Reverso (R): ").upper()
 modo_jogo = ModoJogo.NORMAL if (escolha_modo_jogo == "N") else ModoJogo.REVERSO
 
+print()
+
 jogo = Jogo(tipo_carta, modo_jogo)
-jogo.embaralhar_cartas()
-jogo.mostrar_carta()
+jogo.iniciar_jogo()

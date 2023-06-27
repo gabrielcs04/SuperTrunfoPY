@@ -98,7 +98,7 @@
 	{
 		"nome": "Shih Tzu",
 		"classe": "B",
-		"peso": "4-7.2 kg",
+		"peso": 7,
 		"brincalhao": 7,
 		"agressividade": 3,
 		"obediencia": 6
