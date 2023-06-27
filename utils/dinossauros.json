@@ -17,7 +17,7 @@
 	},
 	{
 		"nome": "Triceratops",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 10,
 		"altura": 3,
 		"comprimento": 9,
@@ -25,7 +25,7 @@
 	},
 	{
 		"nome": "Stegosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 7,
 		"altura": 4.5,
 		"comprimento": 9,
@@ -33,7 +33,7 @@
 	},
 	{
 		"nome": "Allosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 3,
 		"altura": 4,
 		"comprimento": 13,
@@ -41,7 +41,7 @@
 	},
 	{
 		"nome": "Brachiosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 60,
 		"altura": 25,
 		"comprimento": 30,
@@ -49,7 +49,7 @@
 	},
 	{
 		"nome": "Ankylosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 5,
 		"altura": 1.7,
 		"comprimento": 8,
@@ -57,7 +57,7 @@
 	},
 	{
 		"nome": "Diplodocus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 13,
 		"altura": 7,
 		"comprimento": 33,
@@ -65,7 +65,7 @@
 	},
 	{
 		"nome": "Spinosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 15,
 		"altura": 7,
 		"comprimento": 18,
@@ -73,7 +73,7 @@
 	},
 	{
 		"nome": "Iguanodon",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 3,
 		"altura": 4,
 		"comprimento": 10,
@@ -81,7 +81,7 @@
 	},
 	{
 		"nome": "Carnotaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 2,
 		"altura": 7,
 		"comprimento": 9.7,
@@ -89,7 +89,7 @@
 	},
 	{
 		"nome": "Parasaurolophus",
-		"classe": "B'",
+		"classe": "B",
 		"altura": 2.7,
 		"comprimento": 10,
 		"viveu_ha": 70,
@@ -97,7 +97,7 @@
 	},
 	{
 		"nome": "Pteranodon",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 30,
 		"altura": 1.5,
 		"comprimento": 8,
@@ -105,7 +105,7 @@
 	},
 	{
 		"nome": "Archaeopteryx",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 0.5,
 		"altura": 0.3,
 		"comprimento": 0.5,
@@ -113,7 +113,7 @@
 	},
 	{
 		"nome": "Compsognathus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 2,
 		"altura": 0.6,
 		"comprimento": 1.4,
@@ -121,7 +121,7 @@
 	},
 	{
 		"nome": "Dilophosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 500,
 		"altura": 1.8,
 		"comprimento": 7,
@@ -129,7 +129,7 @@
 	},
 	{
 		"nome": "Giganotosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 13,
 		"altura": 5,
 		"comprimento": 12,
@@ -137,7 +137,7 @@
 	},
 	{
 		"nome": "Microraptor",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 0.5,
 		"altura": 0.4,
 		"comprimento": 0.7,
@@ -145,7 +145,7 @@
 	},
 	{
 		"nome": "Deinonychus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 80,
 		"altura": 1.1,
 		"comprimento": 3.5,
@@ -153,7 +153,7 @@
 	},
 	{
 		"nome": "Pachycephalosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 1.5,
 		"altura": 2.1,
 		"comprimento": 4.5,
@@ -161,7 +161,7 @@
 	},
 	{
 		"nome": "Spinosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 15,
 		"altura": 6,
 		"comprimento": 16,
@@ -169,7 +169,7 @@
 	},
 	{
 		"nome": "Iguanodon",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 2.5,
 		"altura": 3,
 		"comprimento": 10,
@@ -177,7 +177,7 @@
 	},
 	{
 		"nome": "Carnotaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 1.5,
 		"altura": 2.7,
 		"comprimento": 9,
@@ -185,7 +185,7 @@
 	},
 	{
 		"nome": "Parasaurolophus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 3.5,
 		"altura": 2.7,
 		"comprimento": 10,
@@ -193,7 +193,7 @@
 	},
 	{
 		"nome": "Pteranodon",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 30,
 		"altura": 1.5,
 		"comprimento": 9,
@@ -201,7 +201,7 @@
 	},
 	{
 		"nome": "Archaeopteryx",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 0.5,
 		"altura": 0.3,
 		"comprimento": 0.5,
@@ -209,7 +209,7 @@
 	},
 	{
 		"nome": "Compsognathus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 2,
 		"altura": 0.5,
 		"comprimento": 1.4,
@@ -217,7 +217,7 @@
 	},
 	{
 		"nome": "Dilophosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 500,
 		"altura": 1.8,
 		"comprimento": 7,
@@ -225,7 +225,7 @@
 	},
 	{
 		"nome": "Giganotosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 12,
 		"altura": 5,
 		"comprimento": 12,
@@ -233,7 +233,7 @@
 	},
 	{
 		"nome": "Microraptor",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 0.5,
 		"altura": 0.4,
 		"comprimento": 0.7,
@@ -241,7 +241,7 @@
 	},
 	{
 		"nome": "Deinonychus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 90,
 		"altura": 1.1,
 		"comprimento": 3,
@@ -249,7 +249,7 @@
 	},
 	{
 		"nome": "Pachycephalosaurus",
-		"classe": "B'",
+		"classe": "B",
 		"peso": 1.5,
 		"altura": 2.1,
 		"comprimento": 4.5,
