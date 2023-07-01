@@ -1,3 +1,5 @@
+from pandas import DataFrame
+
 from utils.enum import ClasseCarta, ModoJogo
 
 class Cachorro():
@@ -10,11 +12,10 @@ class Cachorro():
         self.obediencia = obediencia
 
     def mostrar_carta(self) -> None:
-        print(f"{self.nome} - {self.classe.value}")
-        print(f"(1) - Peso: {self.peso:.2f} Kg")
-        print(f"(2) - Brincalhão: {self.brincalhao}/10")
-        print(f"(3) - Agressividade: {self.agressividade}/10")
-        print(f"(4) - Obediência: {self.obediencia}/10")
+        atributos = f"{self.nome}||(1) Peso||(2) Brincalhão||(3) Agressividade||(4) Obediência".split("||")
+        valores = [[f"Classe {self.classe.value}"], [f"{self.peso:.2f} Kg"], [f"{self.brincalhao}/10"], [f"{self.agressividade}/10"], [f"{self.obediencia}/10"]]
+
+        print(DataFrame(data=valores, index=atributos, columns=".".split()))
     
     def comparar_carta(self, atributo: int, outra_carta, modo_jogo: ModoJogo) -> int:
         if (modo_jogo == ModoJogo.NORMAL):

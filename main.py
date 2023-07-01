@@ -13,9 +13,7 @@ apelido = str(input("Digite um apelido para usar durante o jogo: "))
 
 usuario = Usuario(nome, sobrenome, idade, apelido)
 
-print()
-print("-"*87)
-print()
+print("\n", "-"*87, "\n")
 
 escolha_tipo_carta = ""
 while (escolha_tipo_carta != "C" and escolha_tipo_carta != "D"):

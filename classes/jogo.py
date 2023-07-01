@@ -1,3 +1,4 @@
+from time import sleep
 from random import sample
 
 from utils.enum import TipoCarta, ModoJogo, ClasseCarta
@@ -25,6 +26,7 @@ class Jogo():
         self.pontos_maquina = len(self.cartas_maquina)
         
         while not self.fim_de_jogo():
+            sleep(0.5)
             self.iniciar_rodada()
             
         self.mostrar_resultado()
@@ -36,7 +38,6 @@ class Jogo():
         self.carta_maquina_atual = self.cartas_maquina[0]
         
         self.carta_usuario_atual.mostrar_carta()
-        self.carta_maquina_atual.mostrar_carta()
         
         if (not self.tem_super_trunfo()):
             atributo = self.escolher_atributo()
@@ -48,7 +49,7 @@ class Jogo():
     def embaralhar_cartas(self) -> list:
         cartas = Baralho().pegar_cartas(self.tipo_carta)
         
-        indices_cartas = sample(range(32), 32)
+        indices_cartas = sample(range(self.TOTAL_CARTAS), self.TOTAL_CARTAS)
         for i in range(self.TOTAL_CARTAS):
             if (i < self.TOTAL_CARTAS/2):
                 self.cartas_usuario.append(cartas[indices_cartas[i]])

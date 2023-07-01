@@ -1,3 +1,5 @@
+from pandas import DataFrame
+
 from utils.enum import ClasseCarta, ModoJogo
 
     
@@ -11,11 +13,10 @@ class Dinossauro():
         self.viveu_ha = viveu_ha
     
     def mostrar_carta(self) -> None:
-        print(f"{self.nome} - {self.classe.value}")
-        print(f"(1) - Peso: {self.peso:.2f} Ton")
-        print(f"(2) - Altura: {self.altura} m")
-        print(f"(3) - Comprimento: {self.comprimento} m")
-        print(f"(4) - Viveu há: {self.viveu_ha} milhões de anos")
+        atributos = f"{self.nome}||(1) Peso||(2) Altura||(3) Comprimento||(4) Viveu há".split("||")
+        valores = [[f"Classe {self.classe.value}"], [f"{self.peso:.2f} Kg"], [f"{self.altura} m"], [f"{self.comprimento} m"], [f"{self.viveu_ha} mi de anos"]]
+
+        print(DataFrame(data=valores, index=atributos, columns=".".split()))
     
     def comparar_carta(self, atributo: int, outra_carta, modo_jogo: ModoJogo) -> int:
         if (modo_jogo == ModoJogo.NORMAL):
