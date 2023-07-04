@@ -14,7 +14,7 @@ class Dinossauro():
     
     def mostrar_carta(self) -> None:
         atributos = f"{self.nome}||(1) Peso||(2) Altura||(3) Comprimento||(4) Viveu há".split("||")
-        valores = [[f"Classe {self.classe.value}"], [f"{self.peso:.2f} Kg"], [f"{self.altura} m"], [f"{self.comprimento} m"], [f"{self.viveu_ha} mi de anos"]]
+        valores = [[f"Classe {self.classe.value}"], [f"{self.peso:.2f} Ton"], [f"{self.altura} m"], [f"{self.comprimento} m"], [f"{self.viveu_ha} mi de anos"]]
 
         print(DataFrame(data=valores, index=atributos, columns=".".split()))
     
