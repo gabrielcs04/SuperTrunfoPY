@@ -23,7 +23,7 @@ tipo_carta = TipoCarta.CACHORRO if (escolha_tipo_carta == "C") else TipoCarta.DI
 
 escolha_modo_jogo = ""
 while (escolha_modo_jogo != "N" and escolha_modo_jogo != "R"):
-    escolha_modo_jogo = input("Escolha o um modo de jogo -> Noramal (N) || Reverso (R): ").upper()
+    escolha_modo_jogo = input("Escolha o um modo de jogo -> Normal (N) || Reverso (R): ").upper()
 modo_jogo = ModoJogo.NORMAL if (escolha_modo_jogo == "N") else ModoJogo.REVERSO
 
 print()
